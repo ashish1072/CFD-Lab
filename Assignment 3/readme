@@ -1,0 +1,19 @@
+
+Worksheet-2, CDF Lab, Group F
+
+Before execution, this folder should contain the following:
+
+	source code files : main.cpp,
+	header fles	  : 
+	.dat files	  :
+	.pgm files	  : 
+ 
+   
+INSTRUCTIONS OF USE:
+-> select the problem by typing 1 to 6.
+
+-> use command 'make' to execute, and 'make clean' to go back to original state.
+
+-> check the Output folder for .vtk files for visualization of results.
+
+-> check the .log file for simulation details, convergence, etc.

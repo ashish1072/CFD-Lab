@@ -1,0 +1,14 @@
+Worksheet-4, CDF Lab, Group F
+
+This folder should contain the following:
+
+	source code files : main.cpp,
+	header fles	  : 
+	.dat files	  :
+   
+Instructions to run the Program:
+1. Type the 'make' command in terminal.
+2. Type the next command 'mpirun -np x ./sim', x = no of processes given as input(iproc*jproc).  
+3. Check the Solution_cavity folder for .vtk files for visualization of results.
+
+
